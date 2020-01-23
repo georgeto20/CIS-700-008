@@ -1,0 +1,14 @@
+e
+e
+take money
+n
+buy hitchhiker's guide
+buy poetry book
+s
+s
+buy babel fish
+n
+e
+give poetry book to vogon
+e
+sneak inside
