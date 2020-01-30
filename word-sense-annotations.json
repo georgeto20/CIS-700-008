@@ -1,0 +1,147 @@
+{
+    "hypernyms": {
+        "crown": [],
+        "eat": [
+            "consume.v.02",
+            "eat.v.02",
+            "consume.v.02"
+        ],
+        "fish": [
+            "food.n.02"
+        ],
+        "give": [
+            "transfer.v.05"
+        ],
+        "go": [
+            "exit.v.01",
+            "move.v.03"
+        ],
+        "lamp": [
+            "furniture.n.01"
+        ],
+        "light": [
+            "lighten.v.05"
+        ],
+        "north": [],
+        "princess": [],
+        "propose": [
+            "request.v.02",
+            "ask.v.02",
+            "request.v.01"
+        ],
+        "rose": [
+            "shrub.n.01",
+            "woody_plant.n.01",
+            "vascular_plant.n.01",
+            "plant.n.02"
+        ],
+        "smell": [
+            "perceive.v.01"
+        ],
+        "troll": [
+            "mythical_monster.n.01",
+            "monster.n.01",
+            "mythical_being.n.01",
+            "imaginary_being.n.01",
+            "imaginary_being.n.01",
+            "imagination.n.01",
+            "imagination.n.01"
+        ],
+        "wear": [
+            "dress.v.01"
+        ]
+    },
+    "hyponyms": {
+        "crown": [],
+        "eat": [
+            "devour.v.03",
+            "devour.v.04",
+            "fill_up.v.04",
+            "garbage_down.v.01",
+            "gluttonize.v.01",
+            "gobble.v.01",
+            "pitch_in.v.01",
+            "slurp.v.01",
+            "wolf.v.01"
+        ],
+        "fish": [
+            "rock_salmon.n.01",
+            "salmon.n.03",
+            "trout.n.01",
+            "atlantic_salmon.n.01",
+            "chinook_salmon.n.01",
+            "kippered_salmon.n.01",
+            "red_salmon.n.01",
+            "silver_salmon.n.01",
+            "smoked_salmon.n.01",
+            "rainbow_trout.n.01",
+            "sea_trout.n.01"
+        ],
+        "give": [
+            "accord.v.02",
+            "allow.v.03",
+            "bestow.v.02",
+            "offer.v.02",
+            "present.v.04",
+            "provide.v.02",
+            "spare.v.03",
+            "supply.v.01",
+            "accommodate.v.03",
+            "feed.v.01",
+            "feed.v.02",
+            "nourish.v.01",
+            "regale.v.01",
+            "serve.v.05",
+            "serve.v.06",
+            "extend.v.04",
+            "feed.v.03",
+            "offer.v.01",
+            "victual.v.01",
+            "lunch.v.02",
+            "nutrify.v.01",
+            "overfeed.v.01",
+            "spoonfeed.v.01"
+        ],
+        "go": [
+            "shove_off.v.01"
+        ],
+        "lamp": [],
+        "light": [
+            "floodlight.v.01"
+        ],
+        "north": [],
+        "princess": [
+            "crown_princess.n.02"
+        ],
+        "propose": [],
+        "rose": [],
+        "smell": [
+            "get_a_noseful.v.01",
+            "scent.v.02",
+            "sniff.v.01",
+            "snuff.v.01"
+        ],
+        "troll": [],
+        "wear": [
+            "hat.v.01",
+            "slip_on.v.01",
+            "try_on.v.01"
+        ]
+    },
+    "senses": {
+        "crown": "crown.n.01",
+        "eat": "eat.v.01",
+        "fish": "fish.n.02",
+        "give": "give.v.03",
+        "go": "go.v.03",
+        "lamp": "lamp.n.02",
+        "light": "light.v.01",
+        "north": "north.r.01",
+        "princess": "princess.n.01",
+        "propose": "propose.v.05",
+        "rose": "rose.n.01",
+        "smell": "smell.v.01",
+        "troll": "troll.n.01",
+        "wear": "wear.v.09"
+    }
+}
