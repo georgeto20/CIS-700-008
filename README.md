@@ -1,1 +1,1 @@
-This branch contains the notebook for the final project in my Interactive Fiction and Text Generation course at UPenn. My code leverages [the LIGHT dataset](https://arxiv.org/pdf/1903.03094.pdf) to generate descriptions for various objects, characters, and locations in interactive fiction games.
+This is the notebook for the final project in my Interactive Fiction and Text Generation course at UPenn. My code leverages [the LIGHT dataset](https://arxiv.org/pdf/1903.03094.pdf) to generate descriptions for various objects, characters, and locations in interactive fiction games.
